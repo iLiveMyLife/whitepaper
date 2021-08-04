@@ -1,5 +1,30 @@
 # whitepaper
 
+## Abstract
+
+Briefly describe the key idea of what the problem you are trying to solve and one or two sentences what exactly you are aiming to achieve with you solution (no need to explain what you are better then others)
+
+## Background
+
+Here you need to give some background to that will explain the key problem with the currently existing solutions. For instance, applications are utilizing Kafka as a message brokery system, however it's interface is... and there are many other different solutions which are doing the same, but it's not enough, hence you decided to build something siginificantly better.
+
+## Solution
+
+What are you doing? How are you doing it? And etc...
+
+## Why do you think you are better than others?
+
+
+## Competitve analysis or Related work
+
+Who are competing applications? What are they doing different? Why are you better?
+
+
+
+The text below you wrote, I do not understand how is it related to the messaging or MQ service and all discussion we had about Kafka?
+
+---------------
+
 Let's call as **'item'** a variable representing some information. For simplicity we are going to talk about the textual information down the road unless specified overwised. But context of the information is mostly irrelevant. 
 
 As you can see, the variable **item** is defined as a bold item by wrapping the information into markdown ** 'language'.
