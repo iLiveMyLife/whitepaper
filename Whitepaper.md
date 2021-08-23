@@ -2,10 +2,6 @@
 
 ## Abstract
 
--------------
-Briefly describe the key idea of what the problem you are trying to solve and one or two sentences what exactly you are aiming to achieve with you solution (no need to explain what you are better then others)
--------------
-
 People more and more realize that email is not a good tool for collaboration and move away to chats like Slack, Discord or even Telegram.  
 But those are not ideal either. Yes, they try to separate chats by different topics but at the end chats become either overloaded with messages or useful knowledge become lost in history witout a way to restructure it. 
 With our solution we want to suggest a self documenting approach to communication when you still have different topics disscused in different chats but at the same time have a way to extract useful information into documentation points, and those would become a separate communication chat.  
