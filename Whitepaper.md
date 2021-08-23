@@ -9,6 +9,9 @@ With our solution we want to suggest a more flexible communication model where c
 
 ## Background
 
+Despite the fact that email remains a popular tool for productive communication, many consider it to be outdated technology, insufficient to use when collaborating among team members. However, moving to the popular chat platforms such as Slack, Discord or even Telegram, also proves to be a poor strategy with regards to the tools lacking some essential productivity and information organizational features. Those tools try to separate chats into different topics but in the end channels/rooms become overloaded with messages while useful information becomes lost in noise without a practical way to resurface it. iLiveMyLife helps team members organize information in a variety of self documenting approaches. The main approach is conducted via promotion of the information hierarchy suggested to participants when they start and plan out the project at the high level. In addition, machine learning algorithms help promote and audit informational hierarchies as the project evolves, while suggesting to the participants when their structures can be optimized.
+
+-------
 Here you need to give some background to that will explain the key problem with the currently existing solutions. For instance, applications are utilizing Kafka as a message brokery system, however it's interface is... and there are many other different solutions which are doing the same, but it's not enough, hence you decided to build something siginificantly better.
 
 ## Solution
