@@ -13,7 +13,7 @@ Despite the fact that email remains a popular tool for productive communication,
 iLiveMyLife helps team members organize information in a variety of self documenting approaches. The main approach is conducted via promotion of the information hierarchy suggested to participants when they start and plan out the project at the high level. In addition, machine learning algorithms help promote and audit informational hierarchies as the project evolves, while suggesting to the participants when their structures can be optimized.
 
 ## Solution
-Regardless of being a more flexible model of communication compared to most popular messaging platforms we propose to be a platform where people can also earn money by participating in collaboration. While their project is growing in knowledge, this is translated to earning ILML coin by different mechanisms from mining thoughts to being your own coin where value is defined by out of the project acknowledgment though financial transaction like giving you access to “Credit line” wallet in different coins.
+Regardless of being a more flexible model of communication compared to most popular messaging platforms we propose to be a platform where people can also earn money by participating in collaboration. While their project is growing in knowledge, this is translated to earning ILML coin by different mechanisms from mining thoughts to being your own coin where value is defined by out of the project acknowledgment though financial transaction like giving you access to “Credit line” wallet staked in different coins.
 
 We are currency agnostic and the value of our currency is defined by transactions on the open market through exchange to other currency. 
 
