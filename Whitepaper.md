@@ -20,16 +20,27 @@ We are currency agnostic and the value of our currency is defined by transaction
 The cost of maintenance for our software underneath is defined by the quality of thoughts inside the system. If you are not willing to pay for your thoughts then your thoughts are worth nothing to you. If you see the value in someone else's thoughts - then you should be incentivized to contribute to maintaining and enhancing that knowledge. 
 
 
-## Why do you think you are better than others?
+## Why we are different?
+Organizing information into a Knowledge Graph has lots of benefits compariting to only messaging, though from the end user perspective it may look the same. 
+Organizing thoughts into networks of concepts and connecting them together can be considered a memory extension.
+Adding an ability to do that collectively, organizing different groups of people based on concepts you have created and allowing people to add more people into those conceptual networks make your knowledge graph grow very fast. 
+Having an ability to organize the knowledge around your personal goals or interests would make this knowledge be truly under your personal control and access.
+Communication model in our software makes it all possible with ease. 
 
+You can: 
+* Create a concept 
+* Share the link to that concept with people of your choice
+* Together or individually create more concepts
+* Link those concepts together
+* Edit, move and reorganize these network of concepts collectively
+* Be able to have a full history of all changes accessible to you at any moment
+* Create and publish algorithms which listen to knowledge graph change by creating more knowledge or creating specialized knowledge for the sake of real-time reporting, etc.
+ 
 
 ## Competitve analysis or Related work
 
 Who are competing applications? What are they doing different? Why are you better?
 
-
-
-The text below you wrote, I do not understand how is it related to the messaging or MQ service and all discussion we had about Kafka?
 
 ---------------
 ## Technology 
