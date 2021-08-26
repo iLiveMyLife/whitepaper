@@ -17,7 +17,7 @@ Regardless of being a more flexible model of communication compared to most popu
 
 We are currency agnostic and the value of our currency is defined by transactions on the open market through exchange to other currency. 
 
-The cost of maintenance for our software underneath is defined by the quality of thoughts inside the system. If you are not willing to pay for your thoughts then your thoughts are worth nothing to you. If you see the value in someone else's thoughts - then you should be incentivized to contribute to maintaining that knowledge. 
+The cost of maintenance for our software underneath is defined by the quality of thoughts inside the system. If you are not willing to pay for your thoughts then your thoughts are worth nothing to you. If you see the value in someone else's thoughts - then you should be incentivized to contribute to maintaining and enhancing that knowledge. 
 
 
 ## Why do you think you are better than others?
