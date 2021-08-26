@@ -32,18 +32,16 @@ Who are competing applications? What are they doing different? Why are you bette
 The text below you wrote, I do not understand how is it related to the messaging or MQ service and all discussion we had about Kafka?
 
 ---------------
+## Technology 
 
-Let's call as **'item'** a variable representing some information. For simplicity we are going to talk about the textual information down the road unless specified overwised. But context of the information is mostly irrelevant. 
+Let's call an '**item**' (read as a bold item) a variable representing some information. For simplicity we are going to talk about the textual information down the road unless specified otherwise. But the context of the information is mostly irrelevant.
+As you can see, the variable item is defined as a bold item by wrapping the information into markdown ** 'language'.
 
-As you can see, the variable **item** is defined as a bold item by wrapping the information into markdown ** 'language'.
+Let's now introduce another information wrapper on top of the variable item, called {{item}}.
 
-Let's now introduce another information wrapper on top of the variable **item**, called {{item}}.
-
-This informational operation is what we are going to discuss in this whitepaper. 
-
-To just right to the end of the discussion I am going to specify some properties of the {{..}} operation:
-
-* it is a operation of create an variable which has a link to the variable {{parent}}, in the case of this document it is {{whitepaper.md}}
+Let’s specify some properties of the {{..}} operation:
+* it is an operation of creation of a variable which has a link to the variable {{parent}}
 * it is a reference to another variable {{item}}
-* it is a data holder which stores all the history of changes for the variable **item**, lets say it represents a blockchain
+* it is a data holder which stores all the history of changes for the variable item, let's say it represents a blockchain
 * it is a program running by the name of 'item' and handling all the information change happening down the road with variable 'item' and all of variables who knows about the existence of 'item'
+
