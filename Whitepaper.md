@@ -22,8 +22,11 @@ The cost of maintenance for our software underneath is defined by the quality of
 
 ## Why we are different?
 Organizing information into a Knowledge Graph has lots of benefits compariting to only messaging, though from the end user perspective it may look the same. 
+
 Organizing thoughts into networks of concepts and connecting them together can be considered a memory extension.
+
 Adding an ability to do that collectively, organizing different groups of people based on concepts you have created and allowing people to add more people into those conceptual networks make your knowledge graph grow very fast. 
+
 Having an ability to organize the knowledge around your personal goals or interests would make this knowledge be truly under your personal control and access.
 Communication model in our software makes it all possible with ease. 
 
