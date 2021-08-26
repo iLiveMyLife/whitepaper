@@ -16,8 +16,12 @@ iLiveMyLife helps team members organize information in a variety of self documen
 Here you need to give some background to that will explain the key problem with the currently existing solutions. For instance, applications are utilizing Kafka as a message brokery system, however it's interface is... and there are many other different solutions which are doing the same, but it's not enough, hence you decided to build something siginificantly better.
 
 ## Solution
+Regardless of being a more flexible model of communication compared to most popular messaging platforms we propose to be a platform where people can also earn money by participating in collaboration. While their project is growing in knowledge, this is translated to earning ILML coin by different mechanism from mining thoughts to being your own coin where value is defined by out of the project acknowledgment though financial transaction like giving you access to “Credit line” wallet in different coins.
 
-What are you doing? How are you doing it? And etc...
+We are currency agnostic and the value of our currency is defined by transactions on the open market through exchange to other currency. 
+
+The cost of maintenance for our software underneath is defined by the quality of thoughts inside the system. If you are not willing to pay for your thoughts then your thoughts are worth nothing to you. If you see the value in someone else's thoughts - then you should be incentivized to contribute to maintaining that knowledge. 
+
 
 ## Why do you think you are better than others?
 
