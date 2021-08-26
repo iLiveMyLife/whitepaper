@@ -1,4 +1,4 @@
-# iLiveMyLife.io whitepaper
+# iLiveMyLife whitepaper
 
 ## Abstract
 
